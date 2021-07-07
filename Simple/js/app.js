@@ -45,7 +45,7 @@ var brickOffsetLeft = 30;
 // The score of the beginning
 var score = 0;
 // The number of lives you start with. Decrease to one... it will be insane mouahahahaha
-var lives = 3;
+var lives = 5;
 // The message that you will receive when you win
 var messageWin = "YOU WIN, (but this is simple mode so its not so hard)!";
 // The message that you will receive when you lose
